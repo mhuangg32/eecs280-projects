@@ -1,0 +1,21 @@
+Shopping List:
+1. Apples - 6
+2. Bananas - 8
+3. Bread - 2 loaves
+4. Milk - 1 gallon
+5. Eggs - 1 dozen
+6. Chicken Breast - 2 lbs
+7. Rice - 5 lbs
+8. Pasta - 3 boxes
+9. Tomato Sauce - 4 cans
+10. Lettuce - 1 head
+11. Carrots - 2 lbs
+12. Cheese - 1 lb
+13. Orange Juice - 1 bottle
+14. Cereal - 2 boxes
+15. Yogurt- 6 cups
+16. Coffee - 1 bag
+17. Tea - 1 box
+18. Butter - 1 lb
+19. Sugar - 2 lbs
+20. Flour - 5 lbs

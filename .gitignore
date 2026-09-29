@@ -1,0 +1,19 @@
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Submission archives
+*.tar.gz
+*.zip
+
+# OS/editor files
+.DS_Store
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+*:Zone.Identifier
